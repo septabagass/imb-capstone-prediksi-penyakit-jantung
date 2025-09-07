@@ -9,7 +9,7 @@ Target model:
 - Recall tinggi agar lebih sensitif dalam mendeteksi pasien berisiko  
 
 ## Tautan Dataset
-Dataset yang digunakan: [UCI / Kaggle Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)  
+Dataset yang digunakan: [UCI / Prediksi Resiko Penyakit Jantung]([https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset](https://www.kaggle.com/code/janualitayanabilah/prediksi-resiko-penyakit-jantung/output))  
 
 Fitur utama: usia, jenis kelamin, tekanan darah, kolesterol, detak jantung maksimal, hasil tes thalassemia, dan status target (ada/tidak penyakit jantung).  
 
